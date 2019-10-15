@@ -13,15 +13,16 @@
             "title": "Post 3"
         }
     ],
-    "paymentOptions": [
-        {
-            "title": "title"
-           
-        }
-    ],
-    "typeGroupParams": {
-        "adyen-api": {
-            "environment": "env"
+    "paymentOptionsReponse": {
+        "paymentOptions": [
+            {
+                "title": "title"
+            }
+        ],
+        "typeGroupParams": {
+            "adyen-api": {
+                "environment": "env"
+            }
         }
     }
 }
